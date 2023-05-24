@@ -28,8 +28,8 @@
   
   #### <div align=center>🐤 GitHub stats ✏️ Most used languages</div>
 <p>  
-<img height="200em" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallsnail-study&&show_icons=true">
-<img height="200em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=smallsnail-study&langs_count=8)](https://github.com/smallsnail-study/github-readme-stats"> 
+<img height="230em" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallsnail-study&&show_icons=true">
+<img height="230em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=smallsnail-study&langs_count=8)](https://github.com/smallsnail-study/github-readme-stats"> 
 </p>  
 </div>
 <br>
