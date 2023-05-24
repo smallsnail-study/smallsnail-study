@@ -23,15 +23,15 @@
 <br>
        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
-</div>
-<br>  
-  <h2>🐤 GitHub stats</h2>
-<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallsnail-study&&show_icons=true"><br><br>
+</div> 
+<br>
+  
+  #### <div align=center>🐤 GitHub stats ✏️ Most used languages</div>
+<p>  
+<img height="250em" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallsnail-study&&show_icons=true">
+<img height="250em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=smallsnail-study&langs_count=8)](https://github.com/smallsnail-study/github-readme-stats"> 
+</p>  
 </div>
 <br>
-<div align = "center">
-  <h2>✏️ Most used languages</h2>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=smallsnail-study&langs_count=8)](https://github.com/smallsnail-study/github-readme-stats" />
-</div>
 
 ![profile 3d](./profile-3d-contrib/profile-night-green.svg)
